@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a B.S. student at Yonsei University, majoring in Computer Science.
 
 ## Research Interests
 
