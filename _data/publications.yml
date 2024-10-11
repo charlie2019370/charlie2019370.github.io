@@ -1,16 +1,11 @@
 main:
 
   - title: Prompt-based 3D Object Editing
-    authors: PyTorch, CUDA, VESSL
+    authors: 3D object editing by editing prompts, controlling 3D cross attention maps.
     conference: September 2024 - Now
+    image: ./assets/img/img1.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: MedSIM with MedSAM
+    authors: Perform medical image registration using MedSAM's encoder.
+    conference: May 2024 - June 2024
+    image: ./assets/img/img2.png
