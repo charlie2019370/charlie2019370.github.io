@@ -3,28 +3,36 @@
 <h4 style="margin:0 10px 0;">Programming Languages</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><autocolor>Python(PyTorch)</autocolor></a></li>
+  <li><autocolor>Java</autocolor></a></li>
+  <li><autocolor>C/C++</autocolor></a></li>
+  <li><autocolor>HTML/CSS</autocolor></a></li>
+  <li><autocolor>Javascript</autocolor></a></li>
+  <li><autocolor>SQL</autocolor></a></li>
+  <li><autocolor>MATLAB</autocolor></a></li>
+  <li><autocolor>R</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Machine Learning</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor>Google Colab</autocolor></a></li>
+  <li><autocolor>VESSL AI</autocolor></a></li>
+  <li><autocolor>WSL/SSH</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Languages</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor>Korean: Mother tongue</autocolor></a></li>
+  <li><autocolor>English: TOEFL 113, TEPS 448</autocolor></a></li>
+  <li><autocolor>Chinese: Lived in Shanghai for 8 years</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Others</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor>LaTeX</autocolor></a></li>
+  <li><autocolor>Zotero</autocolor></a></li>
+  <li><autocolor>Notion</autocolor></a></li>
 </ul>
