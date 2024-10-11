@@ -8,8 +8,9 @@ I am a B.S. student at Yonsei University, majoring in Computer Science.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **3D AIGC:** Text-to-3D, 3D Object Editing, 3D Reconstruction,
+- **Multimodal:** Multimodal Large Language Models(MLLMs), 3D Vision Language Models(VLMs)
+- **Generative Models:** Diffusion Models, 3D Diffusion, Image Editing
 
 ## News
 
