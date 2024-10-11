@@ -9,3 +9,18 @@ main:
     authors: Perform medical image registration using MedSAM's encoder.
     conference: May 2024 - June 2024
     image: ./assets/img/img2.png
+
+  - title: Simplified-Query Natural Language Video Localization(SQ-NLVL) 
+    authors: Given a query in incomplete sentence form and a video, find the video moment that matches that query.
+    conference: September 2023 - December 2023
+    image: ./assets/img/img3.png
+
+  - title: Holistic Sentiment Analysis On Thematically Irrelevant Sentences 
+    authors: Output overall sentiment analysis of a restaurant review written in paragraph scales, using Chain of Thought and Solo Performance Prompting techniques.
+    conference: September 2023 - December 2023
+    image: ./assets/img/img4.png
+
+  - title: DeepFake Detection
+    authors: Detect DeepFake photos using various kinds of CNN models.
+    conference: November 2022 - December 2022
+    image: ./assets/img/img5.png   
