@@ -1,7 +1,7 @@
 main:
 
   - title: Prompt-based 3D Object Editing
-    authors: Tools: PyTorch, CUDA, VESSL
+    authors: PyTorch, CUDA, VESSL
     conference: September 2024 - Now
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
